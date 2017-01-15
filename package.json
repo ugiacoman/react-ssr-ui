@@ -1,0 +1,14 @@
+{
+  "name": "ssr-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "uli",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^2.0.0-beta",
+    "react-ink": "^6.1.0"
+  },
+  "scripts": {
+    "dev": "next"
+  }
+}
