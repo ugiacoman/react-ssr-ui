@@ -6,14 +6,7 @@ export default class Button extends React.Component {
     return (
       <button style={{ position: "relative" }}>
         <style>
-          {`body {
-            font-family: Roboto, sans-serif;
-            margin: 0;
-            padding: 40px;
-          }
-          canvas {
-            color: #673AB7;
-          }
+          {`
           button {
             background: #fff;
             border: 0;
