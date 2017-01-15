@@ -1,6 +1,9 @@
 import React from 'react'
 
 export default class Card extends React.Component {
+
+  // For some more interesting effects on Cards: https://codepen.io/sdthornton/pen/wBZdXq
+  
   render () {
     return (
         <div className='card'>
